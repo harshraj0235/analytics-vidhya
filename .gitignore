@@ -1,0 +1,8 @@
+# .env
+HUGGINGFACE_API_TOKEN=your_token_here
+
+# .gitignore
+.env
+__pycache__/
+*.pyc
+.venv/
